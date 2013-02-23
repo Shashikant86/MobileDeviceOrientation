@@ -5,7 +5,7 @@ Clone this repo:
     $cd MobileDeviceOrientation
 Now install Behat, Mink, MinkExtension and their dependencies with composer:
 
-     Shashi-MacBook-Pro:Behat-SauceLabs-Newbie user$ curl http://getcomposer.org/installer | php
+     $ curl http://getcomposer.org/installer | php
 This will show you output like this
 
      $ curl http://getcomposer.org/installer | php

@@ -9,7 +9,7 @@ landscape:
      goutte: 
      selenium2:
         browser: iPhone
-        wd_host: Shashikant86:a0e37e25-e2f3-4cba-95d3-936007d8bfc3@ondemand.saucelabs.com/wd/hub
+        wd_host: USERNAME:APIKEY@ondemand.saucelabs.com/wd/hub
         capabilities: {  "platform": "Mac 10.8", "version": "6", "name": "Testing Lanscape iPhone", "deviceOrientation": "landscape"}
 
 portrait:
@@ -22,7 +22,7 @@ portrait:
      goutte: 
      selenium2:
         browser: iPhone
-        wd_host: Shashikant86:a0e37e25-e2f3-4cba-95d3-936007d8bfc3@ondemand.saucelabs.com/wd/hub
+        wd_host: USERNAME:APIKEY@ondemand.saucelabs.com/wd/hub
         capabilities: {  "platform": "Mac 10.8", "version": "6", "name": "Testing Portrait iPhone", "deviceOrientation": "portrait"}
 
 
